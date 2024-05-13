@@ -30,7 +30,7 @@ public class Constants {
     public static final String WRONG_NESTING_TAGS_CONTENT = "<html><body></html></body>";
     public static final String PARAGRAPH_TEST_CONTENT = "This is the first paragraph.\n\nThis is the second paragraph.";
     public static final String PARAGRAPH_EXPECTED_OUTPUT = "<p>This is the first paragraph.</p>\n<p>This is the second paragraph.</p>\n";
-    public static final String MULTIPLE_ANSI_CONTENT = "Some markdown with **bold** text";
+    public static final String MULTIPLE_ANSI_CONTENT = "Some markdown with ***bold*** text";
     public static final String CONSOLE_OUTPUT_CONTENT = "Expected console output";
     public static final String EMPTY_STRING = "";
     public static final String INVALID_FILE_PATH = "example.pdf";

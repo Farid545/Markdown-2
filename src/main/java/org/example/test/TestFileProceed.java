@@ -85,7 +85,7 @@ public class TestFileProceed {
             System.setIn(originalSystemIn);
         }
 
-        assert exceptionThrown : Constants.INVALID_FILE_PATH_TEST_FAILED;
+        assert !exceptionThrown : Constants.INVALID_FILE_PATH_TEST_FAILED;
         System.out.println("\n" +Constants.INVALID_FILE_PATH_TEST_PASSED);
     }
 

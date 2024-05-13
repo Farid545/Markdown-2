@@ -1,6 +1,0 @@
-tryteawgahetsr\
-awethrsj
-This is some text with *bold* and _italic_ formatting.
-This is a *bold*, _italic_, and \\monospaced\\ text with ```preformatted``` sections.
-
-Some markdown with **bold** text

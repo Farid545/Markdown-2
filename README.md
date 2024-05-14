@@ -55,7 +55,7 @@ If you entered a right file path, It has 2 cases:
 
 ## 4. Revert-commits:
 I've done two revert-commits.<br>
-The first one I deleted a wrong method and pushed It to the git by chance.<br>
+Reverted commit because of wrong txt file. I decided to rewrite the file again and then push new txt file.<br>
 ***You can find the first one revert-commit [here](https://github.com/Farid545/Markdown-2/commit/2bd526d55a888251b4894cac66b6e6b72d0102ce))!***
 
 
